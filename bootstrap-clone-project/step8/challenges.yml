@@ -1,0 +1,6 @@
+name: 'Styling Content section'
+stepId: step8
+stepBreakDown:
+    - text: 'Work on mobile design first'
+    - text: 'Then work on desktop design'
+    

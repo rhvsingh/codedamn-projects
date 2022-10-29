@@ -1,0 +1,25 @@
+name: Bootstrap Clone Project
+tags: ["HTML/CSS"]
+starter-files: https://github.com/rhvsingh/bootstrap-clone-project
+type: frontend
+level: easy
+cover-image: https://raw.githubusercontent.com/rhvsingh/bootstrap-clone-project/master/designs/Desktop_Design.png
+short-description: Build Bootstrap landing page clone project to test your HTML and CSS skills.
+long-description: |
+  Your challenge is to build out this landing page and get it looking as close to the design as possible.
+  
+  This project focuses mostly on HTML & CSS.
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+  
+  Your users should be able to:
+  
+  - View the optimal layout for the site depending on their device's screen size
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html

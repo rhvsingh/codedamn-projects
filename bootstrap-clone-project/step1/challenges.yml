@@ -1,0 +1,8 @@
+name: 'Adding requirements'
+stepId: step1
+stepBreakDown:
+    - text: 'Link "Roboto" from google fonts in the head'
+    - text: 'Use font awesome 4.7.0 CDN link for social media icons'
+    - text: 'Create a CSS file style.css
+    - text: 'Link style.css in the head'
+    

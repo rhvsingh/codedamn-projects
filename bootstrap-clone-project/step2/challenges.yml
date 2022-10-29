@@ -1,0 +1,7 @@
+name: 'Setup basic styles'
+stepId: step2
+stepBreakDown:
+    - text: 'Give every element property of box-sizing: border-box'
+    - text: 'Give the body a minimum height of 100vh'
+    - text: 'Add font-family: "Roboto", sans-serif; in the body itself'
+    

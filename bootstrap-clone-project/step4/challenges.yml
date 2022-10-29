@@ -1,0 +1,9 @@
+name: 'Adding Content'
+stepId: step4
+stepBreakDown:
+    - text: 'Add id for content section in the section you created in the 0th step'
+    - text: 'Create a div inside of the content section'
+    - text: 'Inside the div, add the h1 tag'
+    - text: 'Inside the div, add the p tag'
+    - text: 'Inside the div, add input field and a button'
+    

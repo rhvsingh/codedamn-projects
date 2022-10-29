@@ -1,0 +1,7 @@
+name: 'Styling Socials section'
+stepId: step7
+stepBreakDown:
+    - text: 'Work on mobile design first'
+    - text: 'Then work on desktop design'
+    - text: 'Give width: 200px to #socials'
+    - text: 'For #social li use display: block for mobile version and inline-block for the desktop version'

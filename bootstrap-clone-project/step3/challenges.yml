@@ -1,0 +1,9 @@
+name: 'Video section'
+stepId: step3
+stepBreakDown:
+    - text: 'Add the id for the video section in the section you created in the 0th step'
+    - text: 'Use video HTML tag'
+    - text: 'Add these attributes autoplay muted loop in the video tag'
+    - text: 'Give an id to video-tag'
+    - text: 'Use the source tag to link the video file that is in the assets folder'
+    

@@ -1,0 +1,9 @@
+name: 'Adding Socials'
+stepId: step5
+stepBreakDown:
+    - text: 'Add the id for the social section in the section you created in the 0th step'
+    - text: 'Create a div inside of the social section'
+    - text: 'Inside the div, create a ul'
+    - text: 'Inside the ul, insert 3 list items'
+    - text: 'Inside the list items, use font awesome icons for social media icons'
+    

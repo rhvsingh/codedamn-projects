@@ -1,0 +1,8 @@
+name: 'Style part of Video Section'
+stepId: step6
+stepBreakDown:
+    - text: 'Add position: absolute property in video-player'
+    - text: 'Add position: absolute property in video-container::before'
+    - text: 'Add content: " " in video-container::before'
+    - text: 'Add background-color: rgba(42, 85, 85, 0.7); in video-container::before'
+    

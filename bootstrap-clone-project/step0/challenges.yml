@@ -1,0 +1,9 @@
+name: 'Analyze Design'
+stepId: step0
+stepBreakDown:
+    - text: 'Break down design'
+    - text: 'Create 3 sections'
+    - text: 'Section-0 will be for video.'
+    - text: 'Section-1 will be for the content you are seeing in the design.'
+    - text: 'Section-2 will be for social media icons.'
+    
